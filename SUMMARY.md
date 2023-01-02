@@ -2,10 +2,10 @@
 
 * [Introduction](README.md)
 
-## Overview
+## Concepts
 
-* [Renting Flow](<README (1).md>)
-* [Royalty Split](overview/royalty-split.md)
+* [Renting Flow](concepts/readme.md)
+* [Royalty Split](concepts/royalty-split.md)
 
 ## PRODUCT GUIDES
 
