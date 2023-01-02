@@ -4,8 +4,8 @@
 
 ## Concepts
 
-* [Renting Flow](concepts/readme.md)
-* [Royalty Split](concepts/royalty-split.md)
+* [Renting Flow](<README (1).md>)
+* [Royalties and Payouts](concepts/royalties-and-payouts.md)
 
 ## PRODUCT GUIDES
 
