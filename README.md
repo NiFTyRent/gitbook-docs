@@ -6,7 +6,7 @@ description: What we do at NiFTyRent
 
 NiFTyRent is a decentralised collateral-free rental service for utility NFTs in Web3. The NiFTyRent service implements a smart contract that allows lenders (NFT owners) and borrowers (NFT users) to create an on-chain rental agreement based on pre-defined rental terms (e.g. price, duration, payout accounts). Existing projects can integrate the rental feature through NiFTyRent's RPCs.
 
-A lease can be created in a P2P format. In the near future, a rental marketplace will all be provided to enable users list rentings and to select the ones that are interesting to them. The Royalty feature is supported too which enables NFT creators to receive agreed payouts in the rental market.
+A lease can be created in a P2P format. In the near future, a rental marketplace will also be provided to enable users list rentings and to select the ones that are interesting to them. The Royalty feature is supported too which enables NFT creators to receive agreed payouts in the rental market.
 
 NiFTyRent is built with developers in mind. Our Integration SDK (coming soon) will enable dApps and game developers to add rental feature into their projects.
 
