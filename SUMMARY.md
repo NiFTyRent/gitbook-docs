@@ -18,7 +18,4 @@
 ## Developer Docs
 
 * [SDK](developer-docs/sdk.md)
-
-***
-
-* [JavaScript Integration Guide](javascript-integration-guide.md)
+* [JavaScript Integration Guide](developer-docs/javascript-integration-guide.md)

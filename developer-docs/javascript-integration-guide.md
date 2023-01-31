@@ -1,6 +1,6 @@
 # JavaScript Integration Guide
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>How the rented NFT works under the hood</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>How the rented NFT works under the hood</p></figcaption></figure>
 
 The above digraph outlined the main logic behind the scenes of interacting with a rented NFT via NiftyRent.
 
