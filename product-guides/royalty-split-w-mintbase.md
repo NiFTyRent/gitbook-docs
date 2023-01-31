@@ -14,7 +14,7 @@ Then fill the basic information about your NFT. For example:
 
 Next, fill the Forever Royalties. For example:
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 Finally, click the "Mint Me" button and you will get your brand new NFT in your wallet.
 
