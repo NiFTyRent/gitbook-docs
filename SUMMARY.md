@@ -14,6 +14,7 @@
 * [How to borrow](product-guides/how-to-borrow.md)
 * [How to collect rents](product-guides/how-to-collect-rents.md)
 * [Royalty Split (w/ Mintbase)](product-guides/royalty-split-w-mintbase.md)
+* [Try out our demo RPG game!](product-guides/try-out-our-demo-rpg-game.md)
 
 ## Developer Docs
 
