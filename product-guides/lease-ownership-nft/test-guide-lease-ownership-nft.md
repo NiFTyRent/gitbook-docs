@@ -8,9 +8,10 @@ Listed here are some terms used through this guide, along with their sample valu
 
 * **Lender** (crypto\_ty.testnet): original lender of the NFT.
 * **Borrower** (ty\_dev.testnet): the borrower of the NFT.
-* **New Lender**(ty\_dev\_3.testnet): new owner to receive the Lease Ownership NFT.
+* **New Owner / New Lender**(ty\_dev\_3.testnet): new owner to receive the Lease Ownership NFT.
 * Royalty split: we will 2 accouts to split the agreed rent price. ty\_dev\_2.testnet (20%), crypto\_ty.testnet (80%). Refer to our [guide on royalty split](../royalty-split-w-mintbase.md) on how it works at NiFTyRent.
-* Renting NFT: the nft to be rented. Contrace details
+
+The testnet Lease Ownership NFT contract is deployed at **nft-rental.testnet**
 
 ## Mint an NFT on Mintbase
 
@@ -44,13 +45,13 @@ Next, log in NiFTyRent using the borrower account (e.g. ty\_dev.testnet) and acc
 
 Now that the lease has been activated, a new LEASE Ownership NFT should show up in the lender's (crypto\_ty.testnet) NEAR wallet like below. This authorises the ownership of the underlying NFT.
 
-![](../../.gitbook/assets/Ownership\_NFT\_for\_lender.png)
+![](<../../.gitbook/assets/Ownership\_NFT\_for\_lender (1).png>)
 
 ###
 
-## Transfer the LEASE Ownership NFT to a new lender
+## Transfer the LEASE Ownership NFT to a new owner
 
-The LEASE Ownership NFT, like other NFTs, can be transferred to other accounts. Owner of the LEASE owership NFT will become the new lender of the underlying lease. Here, we transferred the ownership nft to a new lender, ty\_dev\_3.testnet. We can verify that in the new lender's wallet. The updated lease information can be verified through command line - note the lender\_id is now ty\_dev\_3. If you logged in NiFTyRent using the new lender's account, the lease would also be shown in My Lendings page.
+The LEASE Ownership NFT, like other NFTs, can be transferred to other accounts. Owner of the LEASE owership NFT will become the new lender of the underlying lease. Here, we transferred the ownership nft to a new owner, ty\_dev\_3.testnet. We can verify that in the new owner's wallet. The updated lease information can be verified through command line - note the lender\_id is now ty\_dev\_3. If you logged in NiFTyRent using the new lender's account, the lease would also be shown in My Lendings page.
 
 ![](../../.gitbook/assets/ownership\_nft\_for\_new\_lender.png)![](../../.gitbook/assets/lease\_detail\_new\_lender.png)
 
