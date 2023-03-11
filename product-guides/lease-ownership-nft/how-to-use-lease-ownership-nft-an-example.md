@@ -1,10 +1,10 @@
-# How to Use Lease Ownership NFT - An Example
+# How to use Lease Ownership NFT - An example
 
-In this guide, we will walk you through an example of using Lease Ownership NFT features. By then end of this guide, you should have a good idea about how Ownership NFT works for you lease. We will demonstrate using Mintbase and our testnet dApp ([https://testnet.niftyrent.xyz/app](https://testnet.niftyrent.xyz/app)). You can also use your own NFT on NEAR to test.
+In this guide, we will walk you through an example of using Lease Ownership NFT features. By the end of this guide, you should have a good idea about how Ownership NFT works for your lease. We will demonstrate by using Mintbase and our testnet dApp ([https://testnet.niftyrent.xyz/app](https://testnet.niftyrent.xyz/app)). You can also use your own NFT on NEAR to test.
 
 ## Context:
 
-Listed here are some terms used through this guide, along with their sample values:
+Listed here are some terms used throughout this guide, along with their sample values:
 
 * **Lender** (crypto\_ty.testnet): original lender of the NFT.
 * **Borrower** (ty\_dev.testnet): the borrower of the NFT.

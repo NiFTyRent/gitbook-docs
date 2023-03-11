@@ -15,7 +15,7 @@
 * [How to collect rents](product-guides/how-to-collect-rents.md)
 * [Royalty Split (w/ Mintbase)](product-guides/royalty-split-w-mintbase.md)
 * [Lease Ownership NFT](product-guides/lease-ownership-nft/README.md)
-  * [How to Use Lease Ownership NFT - An Example](product-guides/lease-ownership-nft/how-to-use-lease-ownership-nft-an-example.md)
+  * [How to use Lease Ownership NFT - An example](product-guides/lease-ownership-nft/how-to-use-lease-ownership-nft-an-example.md)
 * [Try out our demo RPG game!](product-guides/try-out-our-demo-rpg-game.md)
 
 ## Developer Docs
