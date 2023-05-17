@@ -1,3 +1,0 @@
-# Marketplace and Rental
-
-TBC

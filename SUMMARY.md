@@ -6,7 +6,9 @@
 
 * [Renting Flow](<README (1).md>)
 * [Royalties and Payouts](concepts/royalties-and-payouts.md)
-* [Marketplace and Rental](concepts/marketplace-and-rental.md)
+* [Marketplace and Rental](concepts/marketplace-and-rental/README.md)
+  * [Shops](concepts/marketplace-and-rental/shops.md)
+  * [Listings and Lease](concepts/marketplace-and-rental/listings-and-lease.md)
 
 ## PRODUCT GUIDES
 
