@@ -12,7 +12,7 @@ Here is the link to the game that you can play in your browser:
 
 Once the game is loaded, first, you will see a login screen.&#x20;
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 Press "enter", then you will be redirected to the testnet NEAR wallet.
 
@@ -30,11 +30,11 @@ You can use the arrow keys to move around, and use the space key to interact wit
 
 You can click the chest icon on top right corner to see your inventory. You inventory should be empty now.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (6).png>)
 
 There is cave on the cliff to east of where your character is spawned.
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 Go to the cave, and you should enter a dark dungeon. Without light, the dungeon is even more dangerous. Deadly monsters could be lurking at every corner 😱
 
@@ -50,35 +50,49 @@ Go to our Nifty RPG NFT store on mintbase.io:
 
 You can buy any of these candle NFT here (remember it's on testnet, so you pay with your "fake" NEAR money):
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
-After you bought one candle NFT, reload the game and open your inventory again. You will see a candle shows up!
+After you bought one candle NFT, reopen the inventory UI (or maybe reload the game). You will see a candle shows up!
 
-![](<../.gitbook/assets/image (10).png>)
+![](../.gitbook/assets/image.png)
 
 And now if you go to the dungeon again, the candle will lit up the surrounding. You can see much further.
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 Now, go get some bats slashed! ⚔️
 
-### Rent your candle NFT
+### Lend out your candle NFT
 
 Maybe after a while, you have explored every inch of the dungeon, and have levelled up beyond it. Maybe you are up to some other quests, and the candle is not useful for you for now.
 
 It would be a good idea if you can rent it to someone who needs it!
 
-Go to the NiftyRent testnet app: [https://testnet.niftyrent.xyz/app](https://testnet.niftyrent.xyz/app), sign in with your NEAR wallet, and click "Rent my NFT". Then you will see a UI for filling the details about the lease. (See more in [how-to-lend.md](how-to-lend.md "mention").)
+Go to the NiftyRent testnet app: [https://testnet.niftyrent.xyz/app](https://testnet.niftyrent.xyz/app), and sign in with your NEAR wallet. Then find the candle NFT in the "My NFTs" page. Clicking the Lend button will lead you to a UI for filling the details about the lease. (See more in [how-to-lend.md](how-to-lend.md "mention").)
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (7).png>)
 
-Once you submit your lease offer, the designated borrower will be able to see the lease offer in the app (after sign in):
+Once you submit your lease offer, people will able to see it in the Nifty RPG shop:
 
-![](<../.gitbook/assets/image (3).png>)&#x20;
+![](<../.gitbook/assets/image (5).png>)&#x20;
 
-The borrower can click the "View" button to see the details and click "accept" to take the lease and pay. (See more in: [how-to-borrow.md](how-to-borrow.md "mention").)
+### Rent NFT without leaving the game!
 
-After the lease is accepted, it take effect immediately. Now when the borrower login into the game (if you are trying this by yourself, you can first log out from the old account in the game first), she will see the candle shows up in her inventory. You just rent your NFT for the first time 🎉
+Now let's we are a new player who haven't bought the candle NFT. (Maybe you also sign in the game with a different account.)
+
+In the inventory UI, click the "Rent on NiFTyRent" button.
+
+![](<../.gitbook/assets/image (2).png>)
+
+And then you should see a in-game popup of the embedded NiFTyRent shopfront for this game, like below.
+
+![](<../.gitbook/assets/image (4).png>)
+
+Make sure you have signed in with the same account as for the game, and then pick one NFT to rent. The process is the same as we have covered in [how-to-borrow.md](how-to-borrow.md "mention").
+
+After you successfully paid the rent to accept the lease, you close the embedded rental shop.
+
+After the lease is accepted, it take effect immediately. Close the inventory tab and reopen it again, you will see the candle NFT item you just rented 🎉
 
 ![](<../.gitbook/assets/image (12).png>)
 
