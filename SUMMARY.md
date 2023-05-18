@@ -13,6 +13,7 @@
 ## Product Doc
 
 * [Getting Started](product-doc/getting-started.md)
+* [Connect Wallet](product-doc/connect-wallet.md)
 * [Open a Shop](product-doc/open-a-shop.md)
 * [Lend your NFT](product-doc/lend-your-nft.md)
 * [Borrow an NFT](product-doc/borrow-an-nft.md)
