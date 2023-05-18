@@ -1,6 +1,6 @@
 # Royalty Split (w/ Mintbase)
 
-In this guide, we are going to go through how to use Mintbase mint an NFT with perpetual Royalties, and see the royalty split will also apply to the rent from NiFTyRent.
+In this guide, we are going to go through how to use Mintbase to mint an NFT with perpetual Royalties, and see how the royalty split is automatically apply to the rent on NiFTyRent.
 
 ## Mint an NFT on mintbase.io
 
