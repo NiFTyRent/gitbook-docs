@@ -1,17 +1,23 @@
+---
+description: The smart contracts behind NiFTyRent
+---
+
 # Marketplace and Rental
 
-Two core contracts are behind how NiFTyRent works. They are the rental contract and marketplace contract.&#x20;
+Two core contracts are used in NiFTyRent. They are the rental contract and marketplace contract.&#x20;
+
+One the high level, Marketplace contract manages lease offers creating and removing, while Rental contract handles behaviours of successfully accepted leases. The two contracts will interacts with each other.
 
 ## Rental Contract
 
-Rental contract stores the essential information about all existing leases, such as leasing NFT's contract and token id, lender account, borrower account, price of the lease, time range of the lease, etc.&#x20;
+Rental contract stores the essential information about all accepted leases, such as leasing NFT's contract and token id, lender account, borrower account, price of the lease, time range of the lease, etc. It also defines behaviours of an accepted lease. For example, activate a lease, complete a lease, distribute rent based on agreed terms, etc.
 
-It also defines functions that enables behaviours of a lease. For example, create a lease, activate a lease, complete a lease, distribute rent based on agreed terms etc.
-
-Everything related to an actual lease are handled by the rental contract. Additionally, this contract also supports LEASE Ownership NFT feature which is a way to verify the ownership of the leasing NFT during the leasing period. More details are on [LEASE Ownership NFT](../../product-doc/lease-ownership-nft/).
+Additionally, this contract also supports LEASE Ownership NFT feature which is a way to verify the ownership of the leasing NFT during the lease's life time. More details are on [LEASE Ownership NFT](../../product-doc/lease-ownership-nft/).
 
 ## Marketplace Contract
 
-This is the contract that supports the Marketplace feature. It enables users to create, browse and  accept NFT lease listings. For most users, they only interact directly with marketplace contract. Once the needed information is gathered, marketplace contract interacts with rental contract to enable actions to facilitate the actions related to a lease.&#x20;
+This contract supports the Marketplace feature. It enables users to create, browse and accept NFT lease offers. For most users, their NFT renting journey starts with the marketplace contract. Once the needed information is gathered to create a lease, marketplace contract interacts with the rental contract set the lease up.
 
-Allowed NFT contracts will have a Shop in our marketplace to list all leases offers, which will be covered more next on [Shops](shops.md).
+One important thing to not is that, for NFT tokens to be rented using our Marketplace, their NFT contracts must be registered on NiFTyRent. What this means for a project (e.g. a game, a DAO) is that, to make their tokens rentable among users, the project must register the corresponding NFT contract on NiFTyRent. Once the contract got registered, the corresponding tokens can be rented among users freely.
+
+When an NFT contracts got registered on NiFTyRent, a Shop frontpage will be created for them in our Marketplace. All lease offers for the corresponding NFT tokens will be listed in the matching Shop. More details will be covered in [Shops](shops.md).

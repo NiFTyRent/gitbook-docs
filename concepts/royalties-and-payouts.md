@@ -1,6 +1,6 @@
 # Royalties and Payouts
 
-NiFTyRent supports payouts to multiple receivers which enables features such as flexible royalty to creators, commission to marketplace. This is achieved by configuring a payout field at the lease contract creation. NiFTyRent supports this feature by implementing the Royalties and Payouts standard in [NEP-199](https://nomicon.io/Standards/Tokens/NonFungibleToken/Payout).
+NiFTyRent supports payouts to multiple receivers which enables features such as flexible royalty to creators, commission to marketplace. This is achieved by using the payout settings of the NFT token. Once payouts is set at token mint, the future rent split will be automatically handled by our smart contract. NiFTyRent supports this feature by implementing the Royalties and Payouts standard in [NEP-199](https://nomicon.io/Standards/Tokens/NonFungibleToken/Payout).
 
 Through the payouts feature, users such as NFT creators and marketplaces can benefit from renting activities. Similar to the royalties at an NFT purchase, when an NFT lease went through successfully, the rents will be paid to multiple receivers following the pre-defined splits.&#x20;
 
