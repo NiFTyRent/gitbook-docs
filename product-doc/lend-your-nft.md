@@ -6,7 +6,7 @@ Before lending your NFTs, check if your NFT contract has enabled the rental feat
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-05-18 at 12.15.19.png" alt=""><figcaption></figcaption></figure>
 
-After [connecting your wallet](connect-wallet.md), head to [My NFT](https://testnet.niftyrent.xyz/app/nfts) section. Here, you will see all the tokens you own. Find the tokens from maproom, which have been made rentable since a shop has been added. Here ty\_dev.testnet owns 4 nft tokens.
+After [connecting your wallet](set-up-a-wallet.md), head to [My NFT](https://testnet.niftyrent.xyz/app/nfts) section. Here, you will see all the tokens you own. Find the tokens from maproom, which have been made rentable since a shop has been added. Here ty\_dev.testnet owns 4 nft tokens.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-05-18 at 12.10.51.png" alt="" width="563"><figcaption><p>Owner's rentable nfts</p></figcaption></figure>
 
