@@ -8,7 +8,7 @@ Rental contract stores the essential information about all existing leases, such
 
 It also defines functions that enables behaviours of a lease. For example, create a lease, activate a lease, complete a lease, distribute rent based on agreed terms etc.
 
-Everything related to an actual lease are handled by the rental contract. Additionally, this contract also supports LEASE Ownership NFT feature which is a way to verify the ownership of the leasing NFT during the leasing period. More details are on [LEASE Ownership NFT](../../product-guides/lease-ownership-nft/).
+Everything related to an actual lease are handled by the rental contract. Additionally, this contract also supports LEASE Ownership NFT feature which is a way to verify the ownership of the leasing NFT during the leasing period. More details are on [LEASE Ownership NFT](../../product-doc/lease-ownership-nft/).
 
 ## Marketplace Contract
 

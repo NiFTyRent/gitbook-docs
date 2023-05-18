@@ -68,7 +68,7 @@ Maybe after a while, you have explored every inch of the dungeon, and have level
 
 It would be a good idea if you can rent it to someone who needs it!
 
-Go to the NiftyRent testnet app: [https://testnet.niftyrent.xyz/app](https://testnet.niftyrent.xyz/app), and sign in with your NEAR wallet. Then find the candle NFT in the "My NFTs" page. Clicking the Lend button will lead you to a UI for filling the details about the lease. (See more in [how-to-lend.md](how-to-lend.md "mention").)
+Go to the NiftyRent testnet app: [https://testnet.niftyrent.xyz/app](https://testnet.niftyrent.xyz/app), and sign in with your NEAR wallet. Then find the candle NFT in the "My NFTs" page. Clicking the Lend button will lead you to a UI for filling the details about the lease. (See more in [lend-your-nft.md](lend-your-nft.md "mention").)
 
 ![](<../.gitbook/assets/image (7).png>)
 
@@ -88,7 +88,7 @@ And then you should see a in-game popup of the embedded NiFTyRent shopfront for 
 
 ![](<../.gitbook/assets/image (4).png>)
 
-Make sure you have signed in with the same account as for the game, and then pick one NFT to rent. The process is the same as we have covered in [how-to-borrow.md](how-to-borrow.md "mention").
+Make sure you have signed in with the same account as for the game, and then pick one NFT to rent. The process is the same as we have covered in [borrow-an-nft.md](borrow-an-nft.md "mention").
 
 After you successfully paid the rent to accept the lease, you close the embedded rental shop.
 
@@ -96,7 +96,7 @@ After the lease is accepted, it take effect immediately. Close the inventory tab
 
 ![](<../.gitbook/assets/image (12).png>)
 
-After the lease expires, the lender can claim the NFT back along with the rent. (See more in [how-to-collect-rents.md](how-to-collect-rents.md "mention").)
+After the lease expires, the lender can claim the NFT back along with the rent. (See more in [collect-rent-and-claim-back-nft.md](collect-rent-and-claim-back-nft.md "mention").)
 
 
 

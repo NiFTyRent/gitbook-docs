@@ -27,7 +27,7 @@ Sign in to Mintbase on testnet ([https://testnet.mintbase.xyz/](https://testnet.
 
 ## Create a New Lease on NiFTyRent
 
-Create a new lease with your newly minted NFT. Refer to [how to lend](../how-to-lend.md) for details. We set the rent to be 0.5 wNEAR,  borrower to be ty\_dev.testnet, duration to be 10 minutes.
+Create a new lease with your newly minted NFT. Refer to [how to lend](../lend-your-nft.md) for details. We set the rent to be 0.5 wNEAR,  borrower to be ty\_dev.testnet, duration to be 10 minutes.
 
 ![](../../.gitbook/assets/create\_a\_lease.png)
 

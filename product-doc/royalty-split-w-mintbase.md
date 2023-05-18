@@ -20,7 +20,7 @@ Finally, click the "Mint Me" button and you will get your brand new NFT in your 
 
 ## Lend your NFT on NiFTyRent
 
-(You can also refer to the [How to lend](how-to-lend.md) guide.)
+(You can also refer to the [How to lend](lend-your-nft.md) guide.)
 
 Go to [testnet.niftyrent.xyz](https://testnet.niftyrent.xyz) and enter the app. Click "Lend my NFT".
 
@@ -28,5 +28,5 @@ Type in the input box and find the NFT you want to lend. Fill the other lending 
 
 ## Collect the Rent and distribute the Royalties
 
-Once the lease is accepted by the borrower (see more: [How to borrow](how-to-borrow.md)) and expires, you can claim the NFT back together with the rent (see more: [How to collect rents](how-to-collect-rents.md)). At the same time the royalties will be automatically calculated and sent to the accounts you provided above.
+Once the lease is accepted by the borrower (see more: [How to borrow](borrow-an-nft.md)) and expires, you can claim the NFT back together with the rent (see more: [How to collect rents](collect-rent-and-claim-back-nft.md)). At the same time the royalties will be automatically calculated and sent to the accounts you provided above.
 

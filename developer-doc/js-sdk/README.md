@@ -1,7 +1,3 @@
----
-description: Coming Soon
----
-
-# SDK
+# JS SDK
 
 JavaScript: [https://www.npmjs.com/package/@niftyrent/sdk](https://www.npmjs.com/package/@niftyrent/sdk)
