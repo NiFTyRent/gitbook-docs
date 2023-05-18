@@ -8,7 +8,7 @@
 * [Royalties and Payouts](concepts/royalties-and-payouts.md)
 * [Marketplace and Rental](concepts/marketplace-and-rental/README.md)
   * [Shops](concepts/marketplace-and-rental/shops.md)
-  * [Listings and Lease](concepts/marketplace-and-rental/listings-and-lease.md)
+  * [Listing and Lease](concepts/marketplace-and-rental/listing-and-lease.md)
 
 ## Product Doc
 
