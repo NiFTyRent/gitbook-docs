@@ -13,7 +13,7 @@ NiFTyRent is built with developers in mind. Our Integration SDK (coming soon) wi
 ## What can you do with NiFTyRent?
 
 * **If you are an NFT owner**, you can use our website to create a customised rental contract intuitively. You can then collect rents and start making your hard earned NFT to generate revenue. All these are happening without the worry of losing your NFTs after the lease, due to NiFTyRent's secure contract design.
-* **If you are a potential NFT user**, you can use our website to accept a rental contract easily and start enjoying the NFTs feature without a big upfront investment to do a purchase. Very soon, in our rental marketplace, you will also be able to search all renting items and choose the one that is most interesting for you.&#x20;
+* **If you are a potential NFT user**, you can use our website to accept a rental contract easily and start enjoying the NFTs feature without a big upfront investment to do a purchase. Through our user-friendly rental marketplace, you are also able to search all renting items and choose the one that is most interesting for you.&#x20;
 * **If you are a NFT creator**, you will benefit from our renting activities automatically, thanks to the royalty mechanism supported by our rental contracts.
 * **If you are a developer,** you can easily interact with our rental contract from RPC calls. Moreover, our SDK (coming soon) will help you add the long-waited rental feature to your projects.
 
